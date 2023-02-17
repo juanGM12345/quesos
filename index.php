@@ -14,7 +14,7 @@
     <script src="https://code.jquery.com/jquery-3.2.1.js"></script>
  <script src="js/carrucel.js" type="text/javascript"></script>
     <title>Document</title>
-</head>
+</head><!--amarillo: FCD705-->
 <body style="width:100%;height: 100%;margin:0px;padding:0px;">
     <div style="width:100%;height:80px; position:fixed;float:left;background:#000661d8;z-index:10;display:flex;">
     <img src="img/image.png" style="height:40px;margin:auto;margin-left:20px;margin-right:0px;">
